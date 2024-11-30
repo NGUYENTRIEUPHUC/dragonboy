@@ -89,7 +89,7 @@ termux-setup-storage && apt update && apt upgrade && pkg install php && pkg inst
 Git Clone
 ```
 
-git clone https://github.com/ngtohieu/Nro-Offline.git && cd Nro-Offline
+git clone https://github.com/NGUYENTRIEUPHUC/Nro-Offline.git && cd Nro-Offline
 
 ```
 
